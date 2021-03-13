@@ -55,5 +55,3 @@ private:
 		*Element2 = temp;
 	}
 };
-
-#include "QuickSort.cpp"
